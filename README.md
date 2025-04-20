@@ -24,6 +24,11 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
 
+ ## 📊 데이터베이스 설계
+
+![디비 설계](./DB.PNG)
+
+
 
 ## 🚀 주요 기능
 
@@ -32,6 +37,23 @@
 - ![물품등록](https://img.shields.io/badge/물품등록-판매자가_물품을_쉽게_등록_하고_관리-1E1E1E?style=flat&logo=inventory&logoColor=white)
 - ![물품문의](https://img.shields.io/badge/물품문의-구매자가_궁금사항_있으면_문의-FF8C00?style=flat&logo=help&logoColor=white)
 - ![물품상세보기](https://img.shields.io/badge/물품상세보기-물품의_상세_정보_및_사진_확인-0076A8?style=flat&logo=photo&logoColor=white)
+
+ ## 🚀 메인페이지 회사소개
+ - ![메인페이지](./mainpage.gif)
+
+
+ ## 🚀 로그인 및 로그아웃 기능
+- ![회원가입/로그인/로그아웃](./login_logout.gif)
+
+  
+  ## 🚀 상품등록 기능
+- ![물품등록](./product_register.gif)
+
+    ## 🚀 상품에 대한 문의 기능
+- ![메인페이지](./product_commuity.gif)
+
+
+
 
 ## 🚀 미구현 기능
 
